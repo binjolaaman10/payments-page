@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.notification{
+  border-radius: 8px;
+  background: var(--grayscale-g-8, #F5F5F5);
+}

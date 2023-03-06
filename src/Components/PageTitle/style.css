@@ -1,0 +1,10 @@
+.title {
+  display: flexbox;
+  width: 100%;
+  font-family: 'Open Sans';
+  color: var(--grayscale-g-2, #474747);
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  letter-spacing: -0.96px;
+}

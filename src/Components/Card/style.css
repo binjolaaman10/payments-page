@@ -1,0 +1,10 @@
+.card-title {
+  color: var(--grayscale-g-2, #474747);
+  /* Heading/Small */
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px; /* 144.444% */
+  letter-spacing: -0.36px;
+}

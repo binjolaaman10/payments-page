@@ -1,0 +1,17 @@
+.title-text {
+  color: var(--grayscale-g-2, #474747);
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px; /* 133.333% */
+}
+
+.subtitle-text {
+  color: var(--grayscale-g-3, #595959);
+  padding-top: 6px;
+  /* Paragraph/Medium */
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 160% */
+}

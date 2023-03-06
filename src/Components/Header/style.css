@@ -1,0 +1,37 @@
+.headerComponent {
+  background-color: white;
+  display: flex;
+  width: 100%;
+  height: 72px;
+  flex-shrink: 0;
+  margin: auto;
+  background: white;
+  border: solid gray;
+  z-index: 1000;
+  border-width: 0 0 1px 0;
+  /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+}
+
+.header-container {
+  background-color: white;
+}
+
+.header-right-title {
+  color: var(--grayscale-g-2, #474747);
+  text-align: right;
+  /* UI/Medium/Regular */
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 125% */
+  margin-left: 4px;
+}
+
+.right-side-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
