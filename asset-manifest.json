@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/payments-page/static/css/main.10cff890.css",
+    "main.js": "/payments-page/static/js/main.bf40ed44.js",
+    "static/js/787.d696f223.chunk.js": "/payments-page/static/js/787.d696f223.chunk.js",
+    "static/media/rectangle.png": "/payments-page/static/media/rectangle.4952e1940b38abe43312.png",
+    "static/media/Logo.svg": "/payments-page/static/media/Logo.338d56341d702cd1b99e7dc33a1cd754.svg",
+    "static/media/Logo_black.svg": "/payments-page/static/media/Logo_black.51eb38a969f449aeb43af8ccbe7df20a.svg",
+    "static/media/Question.svg": "/payments-page/static/media/Question.1f085ec114b72ff193154a8978ea91ed.svg",
+    "static/media/CircleWavyCheck.svg": "/payments-page/static/media/CircleWavyCheck.e34499740f42cbf3a82bac5dbe75691f.svg",
+    "static/media/ChatsCircle.svg": "/payments-page/static/media/ChatsCircle.b01bb373b382dedbca17c66cec63674f.svg",
+    "static/media/Klarna.svg": "/payments-page/static/media/Klarna.26ff1e85051ea45eee272ccf1f82b79e.svg",
+    "static/media/FacebookLogo.svg": "/payments-page/static/media/FacebookLogo.e88923cd312fdf2de585ebad7956c9f4.svg",
+    "static/media/InstagramLogo.svg": "/payments-page/static/media/InstagramLogo.3d2547d4ca8f32505ecf76d7472c6044.svg",
+    "static/media/Ticket.svg": "/payments-page/static/media/Ticket.1dd7b0d934c05b67ed894eb550c6e577.svg",
+    "static/media/Tag.svg": "/payments-page/static/media/Tag.a8601304fde3860997135ed3146de600.svg",
+    "static/media/TwitterLogo.svg": "/payments-page/static/media/TwitterLogo.1d4d5a8bbe84cac2acee983c462d6b96.svg",
+    "static/media/CreditCard.svg": "/payments-page/static/media/CreditCard.3ce2323b355e20e25a52fef863e669e5.svg",
+    "static/media/CalendarBlank.svg": "/payments-page/static/media/CalendarBlank.c5d35199f1deb5d13c96e7cbc53c26eb.svg",
+    "static/media/Clock.svg": "/payments-page/static/media/Clock.8efca976c1e3a2b217a0ff1c577d4177.svg",
+    "index.html": "/payments-page/index.html",
+    "static/media/ShieldCheckered.svg": "/payments-page/static/media/ShieldCheckered.2b39f4499aac00322da813a48f29a1ba.svg",
+    "static/media/ShieldCheckeredBlue.svg": "/payments-page/static/media/ShieldCheckeredBlue.57bd815a8e10c6d32e2486bbd6f8375e.svg",
+    "main.10cff890.css.map": "/payments-page/static/css/main.10cff890.css.map",
+    "main.bf40ed44.js.map": "/payments-page/static/js/main.bf40ed44.js.map",
+    "787.d696f223.chunk.js.map": "/payments-page/static/js/787.d696f223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10cff890.css",
+    "static/js/main.bf40ed44.js"
+  ]
+}
